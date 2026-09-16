@@ -59,6 +59,7 @@
 - Graph pattern matching
 - Motif detection
 - Connected Components analysis
+- Full Text Search (FTS)
 
 ## Embeddings & Representation Learning
 
